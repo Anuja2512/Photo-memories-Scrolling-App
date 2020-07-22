@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844706845993",
+    "firebase_url": "https://chuddy-birthday.firebaseio.com",
+    "project_id": "chuddy-birthday",
+    "storage_bucket": "chuddy-birthday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844706845993:android:7e06e07ed64dbb44ddd338",
+        "android_client_info": {
+          "package_name": "com.example.chuddybirthday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844706845993-nj19574gsq9rqhg4ioitib0bg52jvf5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chuddybirthday",
+            "certificate_hash": "a2c7003f3fefb45b0e3d3acce2a5e7cabec48321"
+          }
+        },
+        {
+          "client_id": "844706845993-lbtrp5lm35dsr40jdov3lj4k2gioas3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1Wo5xPSWtrCjXP8iBGvFdXWHV9fMaXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844706845993-lbtrp5lm35dsr40jdov3lj4k2gioas3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
